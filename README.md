@@ -5,7 +5,9 @@ This is a fully working "bootloader" for x86 IBM-PC computers, with its main fun
 
 if you want to see this in action just run  
 
-  ```bochs -f bochsrc.txt```
+  ```
+  bochs -f bochsrc.txt
+  ```
 
 I have coded this in assembly and used nasm and bochs
   
